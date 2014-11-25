@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PhoneGap
 ========
 
@@ -36,3 +37,7 @@ Directory Structure
 	  |-version ....... release version in plain text
 	  '-readme.md ..... release readme
 
+=======
+JQM
+===
+>>>>>>> b184504f8c36296de7079804ede3e80ed27faae8
